@@ -49,6 +49,7 @@ protected Connection con = null;
 		}
 		return voca;
 	}
+
 	public List<String> getKor() throws  SQLException{
 		ArrayList<String> Lists = null;
 		
