@@ -20,8 +20,7 @@
 <body>
 	<h1>시험 결과들</h1>
 	<c:import url="Header.jsp" />
-	<c:forEach var="arr" items="${scores}">
-		
+	<c:forEach var="arr" items="${scores}">	
 		
 		<table>
 			<tr><td>${i}차시. ${arr}점</td></tr>
