@@ -6,7 +6,6 @@ public class MemberDO {
 	private String name;
 	
 	public MemberDO() {
-		
 	}
 	public MemberDO(String id, String pwd, String name) {
 		super();
