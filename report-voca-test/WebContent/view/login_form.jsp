@@ -19,7 +19,6 @@
 		}
 	</style>
 </head>
-
 <body align="center">
 	<h1>로그인 페이지</h1><hr>
 	<form action='${pageContext.request.contextPath}/voca?action=login' method="POST">
