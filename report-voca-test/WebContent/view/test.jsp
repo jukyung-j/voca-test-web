@@ -20,7 +20,6 @@
 	<c:import url="Header.jsp" />
 	<form action="${pageContext.request.contextPath}/voca/test?index=${index+3}" method="POST">
 	<c:forEach var="i" items="${eng}" >
-
 	 	<table>
 			<tr>
 				<td>${index}. ${i}</td>
