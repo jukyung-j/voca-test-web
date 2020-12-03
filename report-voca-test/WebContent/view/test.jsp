@@ -15,6 +15,7 @@
 			margin:0 auto; 
 		}
 	</style>
+	
 </head>
 <body>
 	<c:import url="Header.jsp" />
