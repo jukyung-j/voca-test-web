@@ -13,8 +13,7 @@
 			padding-bottom:100px;
 			text-align:center;
 			width:50%;
-			margin:0 auto; 
-			
+			margin:0 auto; 			
 		}
 	</style>
 	<c:set var="i" value="1" />
