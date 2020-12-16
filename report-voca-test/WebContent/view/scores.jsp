@@ -17,6 +17,7 @@
 </head>
 <c:set var="i" value="1" />
 <body>
+
 	<h1>시험 결과들</h1>
 	<c:import url="Header.jsp" />
 	<c:forEach var="arr" items="${scores}">	
