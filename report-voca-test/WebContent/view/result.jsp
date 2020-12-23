@@ -18,6 +18,7 @@
 	</style>
 	<c:set var="i" value="1" />
 </head>
+
 <body>
 	<h1>결 과 </h1>
 	<c:import url="Header.jsp" />
