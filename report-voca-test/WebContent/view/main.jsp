@@ -11,8 +11,7 @@
 			padding-top:200px;
 			text-align:center;
 			width:50%;
-			margin:0 auto; 
-			
+			margin:0 auto; 	
 		}
 		span{
 			padding:50px;
