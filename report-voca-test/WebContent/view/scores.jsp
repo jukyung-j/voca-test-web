@@ -7,7 +7,6 @@
 	<meta charset="UTF-8">
 	<title>시험 결과</title>
 
-
 	<style>
 		body{
 			padding-top:200px;
