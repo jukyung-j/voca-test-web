@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Context>
-
 	 <ResourceLink 
 		global = "jdbc/g_oracle_xepdb1"
 		name = "jdbc/oracle_xepdb1"
